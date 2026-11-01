@@ -1,6 +1,7 @@
 {
-  "name": "Guía de lavado",
-  "short_name": "Lavado",
+  "name": "QColada",
+  "short_name": "QColada",
+  "description": "Haz una foto a la etiqueta y te dice cómo lavar tu ropa con tu lavadora.",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",

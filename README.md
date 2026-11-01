@@ -1,4 +1,4 @@
-# Guía de lavado
+# QColada
 
 Haces una foto a la etiqueta de una prenda (o marcas tú los símbolos) y te dice cómo lavarla con **tu** lavadora y secadora, o si es mejor llevarla a la tintorería.
 

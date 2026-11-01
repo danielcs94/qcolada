@@ -1,6 +1,6 @@
-# Guía de lavado · frontend
+# QColada · frontend
 
-PWA en Angular de la [Guía de lavado](../README.md).
+PWA en Angular de [QColada](../README.md).
 
 ```bash
 npm install
