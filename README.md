@@ -2,7 +2,7 @@
 
 Haces una foto a la etiqueta de una prenda (o marcas tú los símbolos) y te dice cómo lavarla con **tu** lavadora y secadora, o si es mejor llevarla a la tintorería.
 
-**Úsala aquí:** https://danielcs94.github.io/guia-lavado/ (en el iPhone: Safari → Compartir → **Añadir a pantalla de inicio**).
+**Úsala aquí:** https://danielcs94.github.io/qcolada/ (en el iPhone: Safari → Compartir → **Añadir a pantalla de inicio**).
 
 - Una IA de visión (Claude) solo **lee** las fotos: la etiqueta (símbolos ISO 3758 y composición) y el panel de los electrodomésticos.
 - Todo lo que lee la IA se puede **corregir a mano**, y también se puede usar sin foto: marcando los símbolos y metiendo los programas de la lavadora.
